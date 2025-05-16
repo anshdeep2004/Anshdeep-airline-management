@@ -1,5 +1,4 @@
 package com.airline.management.controller;
-
 import com.airline.management.model.Flight;
 import com.airline.management.model.Schedule;
 import com.airline.management.service.FlightService;
